@@ -8,7 +8,7 @@ gem 'geokit', '>= 1.5.0'
 gem 'authlogic', '>= 2.1.3'
 gem 'acl9', '>= 0.12.0'
 
-gem 'libarchive', '>= 0.1.2', :require => 'libarchive_ruby'
+gem 'libarchive-static'
 
 gem 'system_timer', '>= 1.0'
 gem 'exception_notification', '~> 2.3.3.0'
